@@ -2,6 +2,7 @@
 
 A Flutter app for managing your coffee orders with a user-friendly interface . This app was created as a part of my learning journey with Flutter.
 
+[Download APKs](app-release.apk)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Demo](#demo)
